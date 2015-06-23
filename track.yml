@@ -27,12 +27,6 @@ track:
                 -   title: Test Quiz
                     source: https://github.com/learn-co-curriculum/test-quiz
                     uuid: fc7ae6a7-ae09-4bd9-ab0d-9661642e77a2
-            -   title: test
-                uuid: 7ebf1f43-62be-4e89-9a0a-f10aee02cd00
-                contents:
-                -   title: Our Rad Quiz
-                    source: https://github.com/learn-co-curriculum/our-rad-quiz
-                    uuid: a3109723-02e6-4dfa-947a-90419d9f6be2
     -   title: this is brand new again
         uuid: 08acafd1-b37c-4410-befd-ed67a2fcb3e0
         units: []
@@ -54,9 +48,9 @@ track:
             -   title: This is a lesson with A LOT of READMES and a lab
                 uuid: f1a32065-f648-45d8-a3d6-748720d900cf
                 contents:
-                -   title: Bk 002
-                    source: https://github.com/learn-co-curriculum/bk-002
-                    uuid: f3abfcc3-599e-417d-985e-3059fd5fbebb
+                -   title: Space Invaders
+                    source: https://github.com/learn-co-curriculum/space-invaders
+                    uuid: 5a8ebb66-ba96-46f0-84ec-48ac958cbf7f
             -   title: repl-test
                 uuid: e88dbf7d-2284-4077-ab05-bb45317c8a83
                 contents:
@@ -84,9 +78,9 @@ track:
             -   title: Puts and Return
                 uuid: d775549a-864a-48d6-836b-510c8099865c
                 contents:
-                -   title: Puts Print And Return Readme
-                    source: https://github.com/learn-co-curriculum/puts-print-and-return-readme
-                    uuid: e092c7a8-523f-40d7-afda-e026604d172b
+                -   title: Ruby Hello World
+                    source: https://github.com/learn-co-curriculum/ruby-hello-world
+                    uuid: e1d26d1f-4c59-4017-9bef-045e18a02495
             -   title: Methods, Return Value, Arguments
                 uuid: d6e16603-dbbd-4a41-b7e7-e175243129f3
                 contents:
@@ -123,9 +117,9 @@ track:
             -   title: unique method
                 uuid: 41c0051e-163d-400c-b6c4-ec7eddeacf61
                 contents:
-                -   title: Unique Uniq Method
-                    source: https://github.com/learn-co-curriculum/unique-uniq-method
-                    uuid: d1920d72-003b-4eb9-914c-7a72c42b91ab
+                -   title: Space Invaders
+                    source: https://github.com/learn-co-curriculum/space-invaders
+                    uuid: 9f851e7d-2f25-4da9-8602-11d69c4802fb
             -   title: roman numerals
                 uuid: d7c4287a-410d-4ee4-aabf-13bdc6b2305e
                 contents:
@@ -206,4 +200,25 @@ track:
         units:
         -   title: quiz unit
             uuid: fad54a33-c170-4617-bcc0-725ecab7f0d7
-            lessons: []
+            lessons:
+            -   title: quiz test
+                uuid: f85be53b-24b8-4286-b0ad-f91f48c83c25
+                contents:
+                -   title: Our Rad Quiz
+                    source: https://github.com/learn-co-curriculum/our-rad-quiz
+                    uuid: 21c20576-b610-43ff-a2d3-e4227dd93c39
+            -   title: Kaitlin Quiz
+                uuid: feeba315-c7c3-427d-a946-cba8681dfef1
+                contents:
+                -   title: Kaitlin Test Quiz
+                    source: https://github.com/learn-co-curriculum/kaitlin-test-quiz
+                    uuid: b6fb8d3c-73e9-4dd1-b3e7-096f8de55401
+            -   title: replzzzz
+                uuid: a91cce55-98dd-470e-b978-a7f1fb357ce5
+                contents:
+                -   title: Repl Test
+                    source: https://github.com/learn-co-curriculum/repl-test
+                    uuid: e6ab1d6a-57fa-451f-855b-7e71720d4172
+    -   title: Foo
+        uuid: e179cfbc-093a-4bd4-9f81-37d3b20a7b99
+        units: []
